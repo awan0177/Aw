@@ -1589,8 +1589,9 @@ def AWN6(ids,passlist):
 				continue
 		self.loop+=1
 		
+		
 		def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
+	key1=open('/data/data/com.termux/files/usr/bin/.Aw-cov', 'r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/awan0177/trick/blob/main/trick.txt").text
