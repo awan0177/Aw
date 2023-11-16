@@ -1591,7 +1591,6 @@ def AWN6(ids,passlist):
 		
 		
 		def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/TRT.py",).read()
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/awan0177/trick/blob/main/trick.txt").text
